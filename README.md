@@ -15,7 +15,3 @@ Managing databases can be a hassle, but this tool makes it a breeze. Packed with
 - **[vercel-puppeteer](https://github.com/meeehdi-dev/vercel-puppeteer)**: Generate PDFs from HTML effortlessly with this serverless Vercel/Node project using Puppeteer and Chromium.
 - **[win-picker.nvim](https://github.com/meeehdi-dev/win-picker.nvim)**: A handy window picker for Neovim that lets you switch windows with ease.
 - **[bin-packer](https://github.com/meeehdi-dev/bin-packer)**: Optimize pallet loading with this C++ rewrite of the EB-AFIT Pallet Loading reference algorithm.
-
------
-
-![img](https://images7.alphacoders.com/333/thumb-1920-333580.jpg)
