@@ -1,6 +1,7 @@
 # yo! 👋
 
 i'm a software engineer that mainly works on full-stack typescript and react projects.
+
 as for my hobbies I try to play with other stuff, such as lua neovim plugins, golang or vue.
 
 ### [bropilot.nvim](https://github.com/meeehdi-dev/bropilot.nvim)
