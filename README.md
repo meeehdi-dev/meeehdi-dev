@@ -1,8 +1,11 @@
 # Bonjour !
 
-I'm a french software engineer that mostly work on full-stack typescript/react projects.
+I'm a french software engineer and I mostly work on full-stack typescript/react projects.
 
-As for my hobbies I try to play with other tech, such as lua neovim plugins, golang or vue.
+As for my hobbies I try to play with various tech, such as lua neovim plugins, golang or vue.
+
+### [vued](https://github.com/meeehdi-dev/vued)
+rss feed agregator using nuxt and nuxt ui.
 
 ### [bropilot.nvim](https://github.com/meeehdi-dev/bropilot.nvim)
 copilot.vim replacement that uses ollama for local-only code suggestions.
